@@ -36,7 +36,7 @@ gem 'carrierwave', "~> 1.2"
 gem 'rmagick', "~> 2.16"
 
 # エラー画面をわかりやすく整形してくれる
-gem 'better_errors', "~> 2.4"
+gem 'better_errors', "~> 2.8"
 gem 'binding_of_caller', "~> 0.8"
 
 # ruby/railsの文法管理

@@ -24,7 +24,7 @@ gem "font-awesome-rails", "~> 4.7"
 gem 'toastr-rails', "~> 1.0"
 
 # ログイン周り
-gem 'omniauth', "~> 1.8"
+gem 'omniauth', "~> 1.9"
 gem 'omniauth-facebook', "~> 5.0"
 gem 'devise', '~> 4.4'
 
